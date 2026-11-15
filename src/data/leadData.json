@@ -1,0 +1,14 @@
+[
+  {
+    "firstName": "Asha",
+    "lastName": "AutoLead1",
+    "company": "Automation Test Co",
+    "email": "asha.autolead1@example.com"
+  },
+  {
+    "firstName": "Ravi",
+    "lastName": "AutoLead2",
+    "company": "Playwright Labs",
+    "email": "ravi.autolead2@example.com"
+  }
+]
